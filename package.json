@@ -3,6 +3,7 @@
     "start": "json-server --watch db.json --port 3003"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.4"
   }
 }
